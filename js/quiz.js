@@ -21,8 +21,8 @@ const quizData = [
   {
     questionAudio: new Audio("../audio/questions/2triangles.wav"),
     answers: [
-      { audio: "../img/Cosinus-math.png", correct: false },
       { audio: "../img/Sinus-math.png", correct: true },
+      { audio: "../img/Cosinus-math.png", correct: false },
     ],
   },
   {
