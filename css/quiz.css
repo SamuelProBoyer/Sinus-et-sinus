@@ -47,6 +47,10 @@ header {
     background-color:#f5c000;
   }
 
+  .img-quiz {
+    object-fit: contain;
+  }
+
 
   
   
