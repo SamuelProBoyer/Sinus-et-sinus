@@ -113,9 +113,9 @@ const quizData = [
    
   
   function showResults() {
-    totalQuestions.innerText = quizData.length;
-    correctAnswers.innerText = correctAnswersValue;
-    resultsContainer.style.display = "block";
+  //   totalQuestions.innerText = quizData.length;
+  //   correctAnswers.innerText = correctAnswersValue;
+  //   resultsContainer.style.display = "block";
   window.location.href = "../end.html";
   audioEnd.play();
   }
